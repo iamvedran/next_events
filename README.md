@@ -16,7 +16,7 @@ Before running this application, make sure you have the following prerequisites 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/iamvedran/next_events
+   git clone https://github.com/iamvedran/next_events.git
    ```
 
 2. Change to the project directory:
